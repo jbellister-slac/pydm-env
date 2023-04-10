@@ -1,9 +1,10 @@
-name: pydm-env
+name: cpsw-tree-env
 channels:
   - conda-forge
 dependencies:
-  - p4p
-  - pydm=1.18.2
-  - python=3.8
-  - pip:
-    - git+https://github.com/slaclab/edmbutton
+  - matplotlib
+  - numpy
+  - python=3.6.1
+  - pip
+  - pyqt
+  - sip
