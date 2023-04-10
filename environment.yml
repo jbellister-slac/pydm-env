@@ -2,10 +2,9 @@ name: cpsw-tree-env
 channels:
   - conda-forge
 dependencies:
-  - python=3.6.1
+  - matplotlib
+  - numpy
+  - python=3.8
   - pip
+  - PyQt5==5.12.3
   - sip
-  - pip:
-    - matplotlib
-    - numpy
-    - PyQt5==5.12.3
