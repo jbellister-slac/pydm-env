@@ -8,7 +8,7 @@ on:
 jobs:
   build:
     env:
-      ENVIRONMENT_NAME: pydm-env
+      ENVIRONMENT_NAME: cpsw-tree-env
       ENVIRONMENT_FILE_PATH: environment.yml
     runs-on: ubuntu-latest
     name: Build environment
