@@ -6,5 +6,6 @@ dependencies:
   - numpy
   - python=3.6.1
   - pip
-  - pydm
   - sip
+  - pip:
+    - PyQt5==5.12.3
