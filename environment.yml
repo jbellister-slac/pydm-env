@@ -2,6 +2,8 @@ name: cpsw-tree-env
 channels:
   - conda-forge
 dependencies:
+  - gcc_linux-64
+  - gxx_linux-64
   - matplotlib
   - numpy
   - python=3.6.1
