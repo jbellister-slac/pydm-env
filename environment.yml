@@ -6,6 +6,5 @@ dependencies:
   - numpy
   - python=3.6.1
   - pip
-  - pyqt=5.12.3
-  - pyqtwebengine=5.12.1
+  - pydm
   - sip
